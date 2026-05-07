@@ -23,7 +23,8 @@ Concepts: Responsive Design • REST APIs • Component-Based Architecture
 ### Career Intelligence Platform (Internship Project)
 - Built a smart career guidance platform with onboarding and skill selection  
 - Integrated AI-based recommendations and learning roadmap  
-- Tech: Next.js, React, Tailwind CSS  
+- Tech: Next.js, React, Tailwind CSS
+- Live:https://career-intelligence-plateform.vercel.app/
 
 ### Focus Flow – Task Manager
 - Developed task management features such as add, update, delete, and priority handling  
