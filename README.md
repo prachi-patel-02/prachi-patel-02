@@ -34,7 +34,9 @@ Concepts: Responsive Design • REST APIs • Component-Based Architecture
 ### E-commerce Website
 - Built responsive UI with add-to-cart and dynamic updates  
 - Used local storage for persistence  
-- Tech: HTML, CSS, JavaScript  
+- Tech: HTML, CSS, JavaScript
+- Live:https://e-commerce-website-prachipatel.netlify.app/
+- 
 
 ### Personal Portfolio Website
 - Designed a modern UI to showcase projects and skills  
