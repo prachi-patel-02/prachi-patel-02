@@ -29,14 +29,16 @@ Concepts: Responsive Design • REST APIs • Component-Based Architecture
 ### Focus Flow – Task Manager
 - Developed task management features such as add, update, delete, and priority handling  
 - Implemented local storage and clean UI  
-- Tech: React, JavaScript  
+- Tech: React, JavaScript
+- Live:https://focus-flow-task-manager.netlify.app/
+  
 
 ### E-commerce Website
 - Built responsive UI with add-to-cart and dynamic updates  
 - Used local storage for persistence  
 - Tech: HTML, CSS, JavaScript
 - Live:https://e-commerce-website-prachipatel.netlify.app/
-- 
+  
 
 ### Personal Portfolio Website
 - Designed a modern UI to showcase projects and skills  
